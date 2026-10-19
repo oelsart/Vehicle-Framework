@@ -4,15 +4,18 @@
 	<ShaderTypeDef>
 		<defName>CutoutComplexRGB</defName>
 		<shaderPath>CutoutComplexRGB</shaderPath>
+    <uiShaderPath>CutoutComplexRGBUI</uiShaderPath>
 	</ShaderTypeDef>
 	
 	<ShaderTypeDef>
 		<defName>CutoutComplexPattern</defName>
 		<shaderPath>CutoutComplexPattern</shaderPath>
+    <uiShaderPath>CutoutComplexPatternUI</uiShaderPath>
 	</ShaderTypeDef>
 	
 	<ShaderTypeDef>
 		<defName>CutoutComplexSkin</defName>
 		<shaderPath>CutoutComplexSkin</shaderPath>
+    <uiShaderPath>CutoutComplexSkinUI</uiShaderPath>
 	</ShaderTypeDef>
 </Defs>
